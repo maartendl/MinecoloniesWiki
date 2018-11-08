@@ -1,81 +1,111 @@
-== Twitch Client ==
+---
+title: Minecolonies Wiki
+layout: default
+---
+# Twitch Client
 
- If you want to play on the '''Minecolonies Official 1.12.2''' Server we highly recommend using the Curse Client to always be up to date with all the mods we use in our Official Server.
+If you want to play on the **Minecolonies Official 1.12.2** Server we highly recommend using the Twitch Client to always be up to date with all the mods we use in our Official Server.
 
-* Click on the Curse Download button to download the Curse Client. On this page, select download for PC or MAC and begin your download.
+- [Twitch Client](#twitch-client)
+    - [Installation of the Modpack through the Twitch Client](#installation-of-the-modpack-through-the-twitch-client)
+        - [Navigate to Mods](#navigate-to-mods)
+        - [Enable Minecraft](#enable-minecraft)
+        - [Install Minecraft](#install-minecraft)
+        - [Browse Modpacks](#browse-modpacks)
+        - [Search for Minecolonies Pack](#search-for-minecolonies-pack)
+        - [Launch Profile](#launch-profile)
+        - [Login](#login)
+        - [Click Play in Minecraft Launcher](#click-play-in-minecraft-launcher)
+            - [Open Profiles List](#open-profiles-list)
+            - [Select Minecolonies](#select-minecolonies)
+        - [Select Multiplayer](#select-multiplayer)
+        - [Select our Server](#select-our-server)
+{: .box .py-3 .pr-4 }
 
-[[File:curse-logo3.png]]
+- Click on the text below Twitch Logo to download the Twitch Client. On that page, select download for PC or MAC and begin your download.
 
-[[File:Curse-Download3.png]]
+![Twitch Logo](../../assets/images/installation/twitch_logo.png "Click the link below!")
 
-* Once you have downloaded the Curse Client, run the Installation and Login to the Curse Client (sign up to Curse if you haven't yet).
+[Download the Twitch client here!](https://app.twitch.tv/ "Twitch App")
 
-[[File:Curse1.png]]
+- Once you have downloaded the Twitch Client, run the Installation and Login to the Twitch Client.
 
-* On the left side of the Launcher look for the Icon called Minecraft, Click on it and then click on the Install Button ( Use the "advanced" option if you want to select another location for the installation folder. Default Folder is: C:/Users/(your user)/Documents/Curse/Minecraft )
+*Sign up to Twitch if you haven't yet, or convert your old Curse account to a Twitch account.*
 
-[[File:Curse.png]]
+![Twitch Login](../../assets/images/installation/twitch_0.png)
 
-* After the "Install" is done select "Browse all ModPacks".
+## Installation of the Modpack through the Twitch Client
 
-[[File:Curse_1.png]]
+### Navigate to Mods
 
-* Type in the search bar: Minecolonies and once you see "Minecolonies TestPack" (by Kostronor, H3lay), click on "Install".
+On the top bar of the Launcher look for the tab called Mods, Click on it and then select Minecraft
 
-[[File:Curse_2.png]]
+![Launcher Mods](../../assets/images/installation/twitch_1.png)
 
-* Once the install is finished downloading all the mods, it will now say: "PLAY" click on it.
+### Enable Minecraft
 
-[[File:Curse_5.png]]
+The Twitch client will prompt you to "Enable Minecraft", which will restart the launcher.
 
-* Login to your Minecraft account.
+![Enable Minecraft](../../assets/images/installation/twitch_2.png)
 
-[[File:Curse_3.png]]
+### Install Minecraft
 
-* Click on minecraft launcher PLAY button (Make sure the Profile: is Minecolonies TestPack).
+click on the Install Button ( Use the "advanced" option if you want to select another location for the installation folder. Default Folder is: C:/Users/(your user)/Documents/Curse/Minecraft )
 
-[[File:Curse_4.png]]
+![Install Minecraft](../../assets/images/installation/twitch_3.png)
 
-* Click on the Multiplayer button.
+### Browse Modpacks
 
-[[File:Curse_6.png]]
+After the "Install" is done select "Browse all ModPacks".
 
-* Finally click on Minecolonies Official 1.12.2! The server info will be pre set up there already for you.
+![Browse Modpacks](../../assets/images/installation/twitch_4.png)
 
-[[File:Curse_7.png]]
+### Search for Minecolonies Pack
+
+Type in the search bar: Minecolonies and once you see "MineColonies Official" (_by Kostronor, H3lay, 1_Wissi_1. Asherslab81358, D3miurge_), click on "Install".
+
+![Selecting the Modpack](../../assets/images/installation/twitch_5.png)
+
+### Launch Profile
+
+Once the install is finished downloading all the mods, it will now say: "PLAY" click on it.
+
+![Play the Modpack](../../assets/images/installation/twitch_6.png)
+
+### Login
+
+Login to your Minecraft account.
+
+![Login to Minecraft](../../assets/images/installation/twitch_7.png)
+
+### Click Play in Minecraft Launcher
+
+Click the green play button if it's already set to "MineColonies Official". If not, then a couple substeps are needed.
+
+![Play Modpack](../../assets/images/installation/twitch_8.png)
+
+#### Open Profiles List
+
+Click the green arrow pointing up for profile selection
+
+![Select Profile](../../assets/images/installation/twitch_8a.png)
+
+#### Select Minecolonies
+
+Click the "Mineolonies Official" profile. Then you are good to go to Step 8 again!
+
+![Select Profile 2](../../assets/images/installation/twitch_8b.png)
+
+### Select Multiplayer
+
+When Minecraft have loaded up, Click on the Multiplayer button.
+
+![Loaded Minecraft](../../assets/images/installation/twitch_9.png)
+
+### Select our Server
+
+Finally click on Minecolonies Official 1.12.2! The server info will be pre set up there already for you.
+
+![Join the Official Server](../../assets/images/installation/twitch_10.png)
 
 THAT'S ALL !!! Simple... Good Luck, Have Fun. See you in game.
-
-Visit the [http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2736767-minecolonies-colony-simulator-now-in-playable?page=2 Minecraft Forum] and tell us what you think!
-
-== Minecraft Java Edition ==
-
-'''Installing Miecolonies Mod on your Original Minecraft Launcher (NO Curse Client, no other mods)''' 
- This process is for installing only the Minecolonies mod in your original Minecraft launcher. You will not be able to connect to the '''Minecolonies Official 1.12.2'''  Server due to the server having a balanced variety of other mods as well.
-
- For connecting to the Official Server install the Curse Client or visit the [https://minecraft.curseforge.com/projects/minecolonies-testpack/relations/dependencies Curse Minecolonies TestPack] site for a list of all mods used on Server. If all these additional mods are manually downloaded and installed as well, you will be able to connect to the official Server. The Official Minecolonies Server Address is:
-
-[[File:Server.png]]
-
- Installation of the MineColonies mod is very simple. It does require Minecraft Forge to be able to integrate minecolonies mod into the Minecraft game.
- We cannot offer support on the installation of Minecraft Forge. This guide is meant as a general guide for the original Minecraft launcher only for current version 1.12.2 (as of the writing of this post).
-* Go to the [http://files.minecraftforge.net/?forums Minecraft Forge] files download section and Download the "Recommended" Version.
-
-* Run the downloaded recommended version and make sure it's on "Install Client". Installation path is preset according to Minecraft's original installation path. If you have it installed in a different directory change the installation directory. When it's done you will see a "Complete" message.
-
-{|
-|- 
-| [[File:Forge.png]]
-| [[File:Forge_1.png]]
-|}
-
-
-Once you have successfully installed Forge, follow these steps:
-* Go to the [[https://minecraft.curseforge.com/projects/minecolonies/files Minecolonies Curse Forge Download]] site and download the latest 1.12.2 version of MineColonies.
-* On your computer go to the ".minecraft/mods" folder. To be able to find this folder, just click on the start button and in the search box type: %appdata% and hit "search". It will open the folder where you can find the " .minecraft " folder. Open this folder and inside you will find the " mods " folder.
-* Once you are in the " .minecraft/mods " folder, copy the downloaded Minecolonies file you downloaded in Step 1 and paste it here. NOTE: DO NOT extract the file if the option appears. Just put the .jar file in here without extracting it's contents.
-* Run your Original Minecraft launcher and make sure you have the " forge " profile loaded and hit Play
-
-[[File:launcher.png]]
-
-That's it. If you followed thses steps you are READY to play Minecolonies!
