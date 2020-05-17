@@ -2,9 +2,9 @@
 title: Minecolonies Wiki
 layout: default
 ---
-# Tutorial
+# Tutorial for installing minecolonies on GD-launcher.
 
-<p class="h4 text-center"><b>Hello and welcome all new and old players!</b></p>
+<p class="h4 text-center"><b>This tutorial will walk you step by step to install and run minecolonies or a modpack on GDlauncher.</b></p>
 
 - [Quick Walkthrough](#quick-walkthrough)
 - [Detailed Walkthrough](#detailed-walkthrough)
@@ -17,16 +17,14 @@ layout: default
   - [Step 3](#step-3)
   - [Step 4](#step-4)
   - [Final Notes](#final-notes)
+  
+## Starting out
 
-This tutorial assumes you have already installed the mod or modpack. If you'd like instructions on how to <a id="install">install</a> our [Official Mod Pack](https://minecraft.curseforge.com/projects/minecolonies) you can find instructions for [here](../installation) 
+Before you get started with the picture by picture steps below you need to do two donwload steps.
 
-## Quick Walkthrough 
-
-Before you get started on your new colony you should find your perfect location. You need a large enough area for a full city.
-
-You should also gather as many resources as you can. Once you figure out which style you want, you should start gathering enough wood for that style, as well as cobble, coal, iron, and even flowers, and some saplings for other trees not in your style as they are often used as decoration items.
-
-You should also gather enough food to feed yourself and your initial citizens until you can get workers who gather and cook food. 
+#1 Downloading GD launcher
+Visit https://gdevs.io/ and download the installer.
+Download the file and run it, if you encounter this screen:
 
  
 ### Step 1 Supply Camp / Supply Ship
