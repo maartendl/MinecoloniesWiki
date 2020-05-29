@@ -19,7 +19,7 @@ layout: default
     <recipe>fletcher</recipe>
 </div>
 
-# About the Bakery
+# About the Fletcher Hut
 
 The Fletcher Hut is where the Fletcher will craft items that use string or wool, such as bows, fishing poles and paintings. 
 
@@ -36,7 +36,7 @@ The Fletcher Hut is where the Fletcher will craft items that use string or wool,
 
 <br>
 
-# Bakery GUI
+# Fletcher Hut GUI
 
 When accessing the Fletcher block by right-clicking on it, you will see a GUI with different options:
 
